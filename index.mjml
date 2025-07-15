@@ -3,7 +3,7 @@
     <mj-title>Twój partner w dermatologii</mj-title>
   </mj-head>
   <mj-body>
-    <mj-wrapper padding="0" background-url="https://evgenydibrovsky.github.io/newsletter-el/images/bg.jpg">
+    <mj-wrapper padding="0" background-color="#ffffff">
       <mj-hero
         height="167px"
         background-width="600px"
@@ -79,7 +79,7 @@
 
       <mj-section padding="0">
         <mj-column padding="0" width="70%">
-          <mj-image padding-left="0" padding-right="0" padding-bottom="0" padding-top="95px" src="https://evgenydibrovsky.github.io/newsletter-el/images/line.jpg" />
+          <mj-image width="487px" padding-left="0" padding-right="0" padding-bottom="0" padding-top="95px" src="https://evgenydibrovsky.github.io/newsletter-el/images/line.jpg" />
         </mj-column>
         <mj-column padding="0" width="30%">
           <mj-image width="113px" height="78px" padding="0" padding-top="10px" src="https://evgenydibrovsky.github.io/newsletter-el/images/logo-elanco.jpg" />
