@@ -87,10 +87,10 @@
         </mj-group>
       </mj-section>
 
-      <mj-section padding="0">
+      <mj-section padding="0" padding-right="4%">
         <mj-group>
           <mj-column padding="0">
-            <mj-image src="https://evgenydibrovsky.github.io/newsletter-el/images/line.jpg" padding="0" />
+            <mj-image src="https://evgenydibrovsky.github.io/newsletter-el/images/footer.png" padding="0" />
           </mj-column>
         </mj-group>
       </mj-section>
