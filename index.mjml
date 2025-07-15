@@ -3,17 +3,31 @@
     <mj-title>Twój partner w dermatologii</mj-title>
   </mj-head>
   <mj-body>
-    <mj-wrapper padding="0" background-url="/images/bg.jpg">
-      <mj-hero height="167px" background-width="600px" background-height="167px" mode="fluid-height" background-url="/images/header.jpg" background-color="#2a3448" padding="0px"> </mj-hero>
+    <mj-wrapper padding="0" background-url="https://evgenydibrovsky.github.io/newsletter-el/images/bg.jpg">
+      <mj-hero
+        height="167px"
+        background-width="600px"
+        background-height="167px"
+        mode="fluid-height"
+        background-url="https://evgenydibrovsky.github.io/newsletter-el/images/header.jpg"
+        background-color="#2a3448"
+        padding="0px"
+      >
+      </mj-hero>
 
-      <mj-section>
-        <mj-column padding-left="4%" padding-right="4%">
-          <mj-text padding-left="0" padding-right="0" color="#275547" font-size="18px" line-height="22px" font-weight="bold" font-family="Verdana, sans-serif;">Elanco przekracza oczekiwania</mj-text>
+      <mj-section padding-bottom="0">
+        <mj-column width="60%" padding-left="4%" padding-right="4%">
+          <mj-text padding-left="0" padding-right="0" color="#275547" font-size="19px" line-height="22px" font-weight="bold" font-family="Verdana, sans-serif;">Elanco przekracza oczekiwania</mj-text>
           <mj-text padding-left="0" padding-right="0" color="#275547" font-size="15px" line-height="22px" font-family="Verdana, sans-serif;"
-            >Elanco, wkrótce i w nadchodzących latach,<br />
-            wprowadzi znaczące innowacje.</mj-text
+            >Elanco, wkrótce i w nadchodzących latach, wprowadzi znaczące innowacje.</mj-text
           >
-          <mj-text padding-left="0" padding-right="0" padding-top="22px" color="#275547" font-size="18px" line-height="22px" font-weight="bold" font-family="Verdana, sans-serif;">
+        </mj-column>
+        <mj-column width="40%"></mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0">
+        <mj-column padding-left="4%" padding-right="4%">
+          <mj-text padding-left="0" padding-right="0" padding-top="22px" color="#275547" font-size="19px" line-height="22px" font-weight="bold" font-family="Verdana, sans-serif;">
             Nie zadowalaj się status quo!</mj-text
           >
           <mj-text padding-left="0" padding-right="0" color="#275547" font-size="15px" line-height="22px" font-family="Verdana, sans-serif;">
@@ -28,11 +42,11 @@
             href="https://vet.elanco.com/pl/informacje/dowiedz-sie-jako-pierwszy"
             padding="0"
             font-family="Verdana, sans-serif;"
-            font-size="18px"
+            font-size="17px"
             font-weight="600"
             background-color="#9ac31c"
             color="#275547"
-            width="330px"
+            width="325px"
             height="58px"
             align="left"
           >
@@ -41,16 +55,18 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding-top="30px" padding-bottom="30px">
+      <mj-section padding-top="30px" padding-bottom="0">
         <mj-column padding-left="4%" padding-right="4%">
           <mj-text padding-left="0" padding-right="0"
             >To jest wiadomość marketingowa od Elanco Animal Health, Elanco Poland sp. z o.o., Rondo Ignacego Daszyńskiego 2B, 00-843 Warszawa, Polska.</mj-text
           >
-          <mj-text padding-left="0" padding-right="0"
-            >Otrzymujesz tę wiadomość e-mail, ponieważ zapisałeś się, aby otrzymywać wiadomości e-mail o produktach i usługach Elanco. Aby zagwarantować dostarczenie wiadomości e-mail, dodaj
-            reply@cee.mail.elanco.com do swojej książki adresowej, kontaktów lub listy bezpiecznych nadawców. Jeśli nie chcesz otrzymywać wiadomości e-mail, możesz zaktualizować swoje
-            preferencje.</mj-text
-          >
+          <mj-text padding-left="0" padding-right="0">
+            Otrzymujesz tę wiadomość e-mail, ponieważ zapisałeś się, aby otrzymywać wiadomości e-mail o produktach i usługach Elanco. Aby zagwarantować dostarczenie wiadomości e-mail, dodaj
+            <a href="mailto:reply@cee.mail.elanco.com" style="color: inherit; text-decoration: underline">reply@cee.mail.elanco.com</a>
+            do swojej książki adresowej, kontaktów lub listy bezpiecznych nadawców. Jeśli nie chcesz otrzymywać wiadomości e-mail,
+            <a href="https://preference.elanco.com/pl-PL" style="color: inherit; text-decoration: underline">możesz zaktualizować swoje preferencje.</a>
+          </mj-text>
+
           <mj-text padding-left="0" padding-right="0">Elanco i ukośny znak są znakami towarowymi firmy Elanco lub spółek powiązanych. ©Elanco lub spółki powiązane. </mj-text>
 
           <mj-text padding-left="0" padding-right="0"> PM-PL-25-0191</mj-text>
@@ -63,10 +79,10 @@
 
       <mj-section padding="0">
         <mj-column padding="0" width="70%">
-          <mj-image padding-left="0" padding-right="0" padding-bottom="0" padding-top="85px" src="/images/line.jpg" />
+          <mj-image padding-left="0" padding-right="0" padding-bottom="0" padding-top="95px" src="https://evgenydibrovsky.github.io/newsletter-el/images/line.jpg" />
         </mj-column>
         <mj-column padding="0" width="30%">
-          <mj-image width="113px" height="78px" padding="0" src="/images/logo-elanco.jpg" />
+          <mj-image width="113px" height="78px" padding="0" padding-top="10px" src="https://evgenydibrovsky.github.io/newsletter-el/images/logo-elanco.jpg" />
         </mj-column>
       </mj-section>
     </mj-wrapper>
