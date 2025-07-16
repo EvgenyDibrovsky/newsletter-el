@@ -17,13 +17,12 @@
       </mj-hero>
 
       <mj-section padding-top="30px" padding-bottom="0" padding-left="4%" padding-right="4%">
-        <mj-column width="60%">
+        <mj-column>
           <mj-text padding-left="0" padding-right="0" color="#275547" font-size="18px" line-height="22px" font-weight="bold" font-family="Verdana, sans-serif;">Elanco przekracza oczekiwania</mj-text>
           <mj-text padding-left="0" padding-right="0" color="#275547" font-size="15px" line-height="22px" font-family="Verdana, sans-serif;"
             >Elanco, wkrótce i w nadchodzących latach, wprowadzi znaczące innowacje.</mj-text
           >
         </mj-column>
-        <mj-column width="40%">*&nbsp;</mj-column>
       </mj-section>
 
       <mj-section padding-top="0" padding-bottom="30px" padding-left="4%" padding-right="4%">
